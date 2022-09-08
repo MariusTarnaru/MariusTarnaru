@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariusTarnaru
-- 👀 I’m interested in Java Automation Testing, HTML, Javascript
+- 👀 I’m interested in Java Automation Testing, Selenium, Serenity, REST Assured, Cucumber, HTML, CSS, Javascript
 - 🌱 I’m currently learning Serenity framework, Angular, Pyton
 - 💞️ I’m looking to collaborate on Automation Testing
 - 📫 How to reach me marius.tarnaru@gmail.com
